@@ -32,7 +32,7 @@ See interviewers schedule [Admin] | The user shoule be able to see the schedule 
 See available interviwers [Admin] | The user should be able to see available interviewers for topic on a specified date. | The system should allow the user to choose a topic and a date and the system should list all the available interviewrs on availble on that date for that topic. | Must have
 See interview requests [Admin] | The user should be able see a list of interview requests. | The system should list all the interview requests along with the preferred timeslots and required topic. | Must have
 Assign interview [Admin] | The user should be able assign an interview request to an interviewer. | The system should allow the user to assign an interview request to an interviewer. The system should mark the slot as occupied and notify the parties. | Must have
-Re-Assign interview [Admin] | The user should be able re-assign an interview request from one interviewer to another. | The system should allow the user to assign an interview request from one interviewer to another. The system should mark the slot as new slot as occupied and notify the parties. | Nice to have
+Re-Assign interview [Admin] | The user should be able re-assign an interview request from one interviewer to another. | The system should allow the user to re-assign an interview request from one interviewer to another. The system should mark the slot as new slot as occupied and notify the parties. | Nice to have
 Logout [Admin]| The user should be able logut into their account. | The system must allow the user to logout from their account. | Must have
 
 
